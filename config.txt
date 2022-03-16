@@ -1,0 +1,14 @@
+-CONSUMER_KEY: xxxx
+-CONSUMER_SECRET: xxxxx
+-ACCESS_KEY: xxxxx-xxxx
+-ACCESS_SECRET: xxx
+-time: 15
+-max_temp: 50
+-min_temp: 60
+-max_fan: 50
+-user: @demi4d
+-only_alert: 1
+-gpu_amount: 1
+-force_reset: 1
+
+
